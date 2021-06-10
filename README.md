@@ -9,7 +9,7 @@
 
 `meowToast is a product of the Open Retro SCSI skunksworks team.`
 
-`Special thanks to Zero66x and GeekyBit.`
+`Special thanks to GeekyBit and Zero66x.`
 
 All Rights Not Reserved 2021
 
