@@ -5,6 +5,6 @@
 3. Make sure the side of the ` m e t a l l i c` kitty side of the PCB is facing the CR2032 holder.
 4. Place the assembled meowTOAST in your 1/2AA battery holder.
 
-meowToast is a product of the Open Retro SCSI skunksworks team.
-Special thanks to Zero66x and GeekyBit.
+`meowToast is a product of the Open Retro SCSI skunksworks team.`
+`Special thanks to Zero66x and GeekyBit.`
 All Rights Not Reserved 2021
