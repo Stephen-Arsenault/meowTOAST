@@ -10,3 +10,6 @@
 `Special thanks to Zero66x and GeekyBit.`
 
 All Rights Not Reserved 2021
+
+# License
+meowTOAST is ridiculous and isn't held under any licenses.
