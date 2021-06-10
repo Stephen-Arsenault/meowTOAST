@@ -6,5 +6,7 @@
 4. Place the assembled meowTOAST in your 1/2AA battery holder.
 
 `meowToast is a product of the Open Retro SCSI skunksworks team.`
+
 `Special thanks to Zero66x and GeekyBit.`
+
 All Rights Not Reserved 2021
