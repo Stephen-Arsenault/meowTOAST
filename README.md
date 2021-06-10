@@ -1,3 +1,5 @@
+!["meowToast" render on a green PCB](green_meowTOAST.png)
+
 # meowTOAST
 
 1. Buy [this CR2032 holder from Mouser](https://www.mouser.com/ProductDetail/Linx-Technologies/BAT-HLD-001-THM?qs=Z0V/pEl%252BOGcluj3h2QTrDw==)
