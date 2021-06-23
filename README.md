@@ -11,9 +11,9 @@
 Special thanks to GeekyBit and [Zone66x](https://github.com/zone66x/), and [Androda](https://github.com/androda).
 
 
-!["meowToast" render on a green PCB](/images/green_meowTOAST.png)
-
 # meowTOAST
+
+!["meowToast" render on a green PCB](/images/green_meowTOAST.png)
 
 1. Buy [this CR2032 holder from Mouser](https://www.mouser.com/ProductDetail/Linx-Technologies/BAT-HLD-001-THM?qs=Z0V/pEl%252BOGcluj3h2QTrDw==)
 2. Solder the CR2032 holder to the [meowTOAST PCB](https://oshwlab.com/stephenarsenault/halfstack).
